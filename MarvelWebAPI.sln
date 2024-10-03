@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarvelWebAPI", "MarvelWebAPI\MarvelWebAPI.csproj", "{62D3001F-419A-4051-88A6-1B0E59DA250B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62D3001F-419A-4051-88A6-1B0E59DA250B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D3001F-419A-4051-88A6-1B0E59DA250B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D3001F-419A-4051-88A6-1B0E59DA250B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D3001F-419A-4051-88A6-1B0E59DA250B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {20392F50-6BCF-4136-B917-FFC2FDBEB8E0}
+	EndGlobalSection
+EndGlobal
